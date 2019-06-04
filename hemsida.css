@@ -1,0 +1,23 @@
+h1 {
+    position: absolute top;
+    text-align: center;
+    font-size: 40px;
+    color: black;
+}
+
+div {
+    position: absolute;
+    top: 7%;
+    left: 20%;
+    right: 20%;
+    height: 550px;
+    width: 570px;
+    margin: auto;
+    background-color: rgb(68, 73, 73);
+    border: solid black 5px;
+}
+
+.link {
+    text-align: center;
+}
+

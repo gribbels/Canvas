@@ -1,0 +1,7 @@
+/* Some basic styles */
+* {margin:0; padding:0;}
+#canvas {
+    display:block;
+    /*fill canvas with black by default*/
+    background: #000;
+}
